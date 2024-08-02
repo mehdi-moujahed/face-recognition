@@ -12,7 +12,7 @@ This project implements a face recognition frontend using React and TypeScript. 
    cd face-recognition
    ```
 2. npm install
-3. npm start
+3. npm run dev
 4. Open your browser and navigate to http://localhost:3000
 
 ## License
